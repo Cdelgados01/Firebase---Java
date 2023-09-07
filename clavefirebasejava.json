@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cursojavapoo",
+  "private_key_id": "40b308a88993ccaa1f61fbddd65e73ebe92d5395",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCl9W7Y+D3BnAsm\nCrAzlvLK4b3OLjmaOoyKJOng7xYzv+A7lJiZOapFv6vrtPkAVnTGy/TrDtM6C2mv\nRlcVQ4NCtXr+64/0q9tINfeWShYIhuMyQK7uzkjsU96dOlayEC/oiCPziNanlduq\n0avBDUjlSnWsLVqo/FYt5iyI7qy3jyXUHA0Kugbrd7ieASTOdRFxPuINqTJc8OQl\n3T4gJrxp4x63mjK2E+/JowOEIcNvNGTPPhZJSfeD1TAIHk9Su7nrR5gJ1pyiYFKA\nn//BwTZtDsv6XEmABC+j28vAIVnuAFZN+KAVLBvNtn0JDqKsy6svxyuLDdeYDWz/\nv69UZsJnAgMBAAECggEARIdibGmlZqs+10iWldcBDtHEhL0FwC/pFKpFgUJ40omq\n2C92C9+J9h89qKkkIQWSVvyld+K5SkCoNV5AW2FzdDpoPZeb7BaDCABw6jhRfNfm\nPTwEgEviROQlCpuqbQDOJ6D/53Jb4Pu6p4DJAYCw1y22BZD83MbF91ISlcCoxWrF\nPRzCcj4NV6cL6PLMivfcSDKrftLkcRgZrSUb8pcJ3bddS0vcER4ZlAn0tlpk5jeT\nRW5US1MqOEzRQ11tirQHR0jYwnKdJ8KExWySNtCCpPPZQoxtfVI/m+Yl1Difjv9l\ntNJakSJSQTytyhIKqcnCSjcjNeErhcfFbbiWX392gQKBgQDqUa7KVOf5Ml0MKL/W\nSNBrPtLhM4qXxIFqPfsFs+W5TUVuIQvjUw8bwtAq5pOALIjPthJ9Hs0jfhqjL00p\nc6IVcrHYxcbuj1RipB9LJfq88MfEIdxWN0QHFaPjJhzsjk+ygteTd9OcL3dwG4Uz\nG9smuFCz6nDpVZ0PLINkLtzjoQKBgQC1UH+KgBWZp5S/HNs9oQ3BFL9AijgANln+\nyOLVm+v7yGTAXFk6W6N/6L75OtK9UskB0bvmaunnTnIOAj6DWgFjR+diamETVAAb\nc9PI1tql21fnpBOnlu21M6wAV5Yql2r4s8NPEJhR3/uXu7kuhcEMMg1uesoPNVWa\nVaXJss/pBwKBgC9qpCJRmDe3V1j0jg2A4pwxNF9aHLulikLDlB6NTvl2h4xHp64y\nyqXlgFaOHl8bo/vUbl1fdEewZxeKpOS0f6IzeYXST/VKj9r+N07vupOtbd9ksr/H\noz6DxIxc1BGSotIO5Cz1XJ8Ig/TtvMCg7HIjbkFaOcseBhBiA5ysVwrBAoGABwWJ\nCuoO7BZrUkNh0i8sgy+0gGFZ7dgtAArzjeYt62BFVpW89t+Zo1h2HNzEUISmOCXR\nKwk06bpF/HjlxtxzdU7RjSQlgkQchPOlXf/EE+w8qUHXaQQVTJElthWuQRQAFoWP\nqL4xx+nuql+gukZ/xWMi1gZ3UMN1/zYV54u/NX0CgYEA2gB/SOux0Cnyi9Z+zvsY\nbXSPcwcqnPIyFbjQSOTAtPyPmxiF58MlOMXGxl5xumooV1vfoTODq30WKGybfFja\nWtBaZy1/QlcWsWmbGJVF3aJ3bwjg95sA1aQJ69jewNTBKijR3KDrW1YR4RqRL9N3\nXqs6yILn8klBJS335MqLM9k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-jrvve@cursojavapoo.iam.gserviceaccount.com",
+  "client_id": "114803244696670934878",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jrvve%40cursojavapoo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
